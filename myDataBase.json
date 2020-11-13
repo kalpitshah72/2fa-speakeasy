@@ -1,0 +1,13 @@
+{
+    "user": {
+        "2a2eed38-6d1f-48a4-a469-f4d30258c1cb": {
+            "id": "2a2eed38-6d1f-48a4-a469-f4d30258c1cb",
+            "secret": {
+                "ascii": "v%BoFqMzC:c4k>%O)6^IJ$A7V(Q:OErR",
+                "hex": "7625426f46714d7a433a63346b3e254f29365e494a2441375628513a4f457252",
+                "base32": "OYSUE32GOFGXUQZ2MM2GWPRFJ4UTMXSJJISECN2WFBITUT2FOJJA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=OYSUE32GOFGXUQZ2MM2GWPRFJ4UTMXSJJISECN2WFBITUT2FOJJA"
+            }
+        }
+    }
+}
